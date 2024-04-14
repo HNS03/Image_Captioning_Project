@@ -39,6 +39,6 @@ Link: https://huggingface.co/spaces/hanishaikh03/image_captioning
 ## Acknowledgments
 
 - Flickr8K Dataset
-- 
+- https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
 
 
